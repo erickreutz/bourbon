@@ -1,5 +1,5 @@
 {
   "name": "bourbon",
   "homepage": "http://bourbon.io/",
-  "main": "dist/_bourbon.scss",
+  "main": "dist/_bourbon.scss"
 }
